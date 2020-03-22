@@ -7,7 +7,7 @@
 - Solved https://github.com/creativetimofficial/now-ui-dashboard-react/issues/4
 - Solved https://github.com/creativetimofficial/now-ui-dashboard-react/issues/7
 - Almost all of the styles inside `src/scss` have been changed
-- We've removed `src/routes/*` files and replaced them with just one file (`src/routes.js`)
+- We've removed `src/routes/*` files and replaced them with just one file (`src/admin.js`)
 - We've renamed `src/layouts/Dashboard/Dashboard.jsx` to `src/layouts/Admin.jsx`
 - We've dropped the usage of `NODE_PATH=./src` and the file `.env` with the `jsconfig.json` file for using absolute paths
 - We've renamed `src/components/Header/Header.jsx` to `src/components/Navbars/DemoNavbar.jsx`
