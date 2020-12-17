@@ -7,7 +7,7 @@
   "dependencies": {
     "bootstrap": "4.3.1",
     "chart.js": "2.8.0",
-    "datatables.net": "1.10.16",
+    "datatables.net": "1.10.22",
     "datatables.net-bs": "1.10.16",
     "datatables.net-responsive": "2.2.1",
     "history": "4.9.0",
